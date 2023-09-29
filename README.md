@@ -1,10 +1,10 @@
 # PlayingEscape-BitSlicer
-A playingescape script for Bit Slicer.
+A playingescape script for Bit Slicer.  
 
 # How to use?
-First, download script from [here](https://github.com/U5KUN/PlayingEscape-BitSlicer/releases).
-Second, double click the file.
-Done!
+First, download script from [here](https://github.com/U5KUN/PlayingEscape-BitSlicer/releases).  
+Second, double click the file.  
+Done!  
 Note: You need to install [BitSlicer](https://github.com/zorgiepoo/Bit-Slicer/)
 
 # Demo
